@@ -1,4 +1,4 @@
-# Inventario de restaurante — Segundo parcial
+# Inventario de restaurante — Examen Segundo parcial
 
 ## Descripción
 
@@ -136,14 +136,8 @@ Las pruebas comprueban la pila, los casos límite, las operaciones CRUD, el patr
 
 ## Lenguaje y tecnologías
 
-- Python
-- Flet
-- Pydantic
-- pytest
-- JSON
+- Python: flet, pydantic, json
 
 ## Estudiante
+Karla D. Garcés
 
-**Karla D. Garcés**
-
-Proyecto académico desarrollado para la asignatura **Programación Estructurada**.
